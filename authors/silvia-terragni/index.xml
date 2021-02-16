@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia Terragni on Debora Nozza</title>
+    <link>https://dnozza.github.io/authors/silvia-terragni/</link>
+    <description>Recent content in Silvia Terragni on Debora Nozza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Debora Nozza, {year}</copyright>
+    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dnozza.github.io/authors/silvia-terragni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Which Matters Most? Comparing the Impact of Concept and Document Relationships in Topic Models</title>
+      <link>https://dnozza.github.io/publication/2020_concept_document_topic_models/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_concept_document_topic_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
+      <link>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

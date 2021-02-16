@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misogyny detection on Debora Nozza</title>
+    <link>https://dnozza.github.io/tags/misogyny-detection/</link>
+    <description>Recent content in misogyny detection on Debora Nozza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Debora Nozza, {year}</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dnozza.github.io/tags/misogyny-detection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AMI @ EVALITA2020: Automatic Misogyny Identification</title>
+      <link>https://dnozza.github.io/publication/2020_automatic_misogyny_identification/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_automatic_misogyny_identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling Italian Misogynist: An Empirical Study</title>
+      <link>https://dnozza.github.io/publication/2020_profiling_italian_misogynist/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_profiling_italian_misogynist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hate Speech and Misogyny Detection</title>
+      <link>https://dnozza.github.io/project/hate_speech_misogyny_detection/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/project/hate_speech_misogyny_detection/</guid>
+      <description>&lt;p&gt;While the exponential growth of &lt;strong&gt;Social Media&lt;/strong&gt; such as Twitter and Facebook has permit people to freely express themselves in various forms (text, video, images), these new sources of communication, where anonymity or pseudo-anonymity enables the possibility to afflict a target without being recognized or traced, has led to an increasing propagation of hate speech. Automatic Machine Learning models for the detection of &lt;strong&gt;Hate Speech&lt;/strong&gt; could help in preventing or automatically reporting these misbehaviors and consequently reduce the episodes of misogyny, racism, homophobia and cyberbullying. This could be helpful both for protecting individuals’ health and also to monitor public reactions to events.&lt;/p&gt;
+&lt;p&gt;In order to provide a benchmark dataset for &lt;strong&gt;Hate Speech&lt;/strong&gt; and &lt;strong&gt;Misogyny Detection&lt;/strong&gt;, I have contributed to the organization of the &lt;a href=&#34;https://amievalita2020.github.io/&#34;&gt;Automatic Misogyny Identification&lt;/a&gt;(AMI) shared task at &lt;a href=&#34;https://dnozza.github.io/publication/2018_automatic_misogyny_identification/&#34;&gt;Evalita 2018&lt;/a&gt; and &lt;a href=&#34;https://dnozza.github.io/publication/2020_automatic_misogyny_identification/&#34;&gt;2020&lt;/a&gt; in Italian and English language and of the &lt;a href=&#34;https://competitions.codalab.org/competitions/19935&#34;&gt;HatEval&lt;/a&gt; task at SemEval 2019 about the detection of hate speech against immigrants and women in Spanish and English messages extracted from Twitter.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;These tasks permit to create and share the first labelled corpora for misogyny detection in Spanish and Italian. I firmly believe that we still have a long way to go: there are 3,909 written languages in the world, most without misogyny data sets. Moreover, we need to assure that data collection methodologies are the same across all languages in order for them to be valuable.&lt;/em&gt; 🌎🌍🌏&lt;/p&gt;
+&lt;p&gt;After collecting these data, I made some preliminary investigation on the presence of &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3350546.3352512&#34;&gt;unintended bias&lt;/a&gt; in machine learning models for &lt;strong&gt;Misogyny Detection&lt;/strong&gt;. This can lead the models to recognize positive or neutral texts as hate speech texts only because it contains certain terms (e.g. woman, girl).&lt;/p&gt;
+&lt;p&gt;When training a supervised machine learning model for hate speech detection, it is important to guarantee the &lt;strong&gt;fairness&lt;/strong&gt; of the model and therefore to reduce the error due to unintended bias, i.e. the attitude of a model to perform better on comments about some groups than for comments about others groups.
+As you can read in &lt;a href=&#34;https://dl.acm.org/doi/10.1145/3350546.3352512&#34;&gt;my work&lt;/a&gt; presented at International Conference on Web Intelligence (WI &amp;lsquo;19), the presence of this bias lead very accurate models to recognize positive or neutral texts as misogynous contents only because they contains certain terms (e.g. woman, girl). &lt;em&gt;Can you imagine seeing &amp;ldquo;You&amp;rsquo;re a smart woman&amp;rdquo; predicted as misogynous just because it&amp;rsquo;s talking about women?&lt;/em&gt; 🤦‍♀️&lt;/p&gt;
+&lt;p&gt;🎙️🎙️ Check out my latest &lt;strong&gt;interview&lt;/strong&gt; on &lt;a href=&#34;https://www.youtube.com/watch?v=kU8zvmifyHE&amp;amp;t=3s&#34;&gt;Ethics and bias in Artificial Intelligence&lt;/a&gt;!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unintended Bias in Misogyny Detection</title>
+      <link>https://dnozza.github.io/publication/2019_unintended_bias_misogyny_detection/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2019_unintended_bias_misogyny_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter</title>
+      <link>https://dnozza.github.io/publication/2019_semeval_hateval/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2019_semeval_hateval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of the Evalita 2018 Task on Automatic Misogyny Identification (AMI)</title>
+      <link>https://dnozza.github.io/publication/2018_automatic_misogyny_identification/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2018_automatic_misogyny_identification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

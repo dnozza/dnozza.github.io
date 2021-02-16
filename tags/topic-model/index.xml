@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic Model on Debora Nozza</title>
+    <link>https://dnozza.github.io/tags/topic-model/</link>
+    <description>Recent content in Topic Model on Debora Nozza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Debora Nozza, {year}</copyright>
+    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dnozza.github.io/tags/topic-model/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Which Matters Most? Comparing the Impact of Concept and Document Relationships in Topic Models</title>
+      <link>https://dnozza.github.io/publication/2020_concept_document_topic_models/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_concept_document_topic_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
+      <link>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Irony Detection: A Probabilistic Model with Word Embeddings</title>
+      <link>https://dnozza.github.io/publication/2016_unsupervised_irony_detection/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2016_unsupervised_irony_detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
