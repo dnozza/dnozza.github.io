@@ -7,9 +7,29 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 14:39:32 +0200</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Etica e bias nell&#39;intelligenza artificiale</title>
+      <link>https://dnozza.github.io/talk/etica_bias_ai/</link>
+      <pubDate>Mon, 12 Oct 2020 14:39:32 +0200</pubDate>
+      
+      <guid>https://dnozza.github.io/talk/etica_bias_ai/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kU8zvmifyHE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Potential Pitfalls of Algorithms</title>
+      <link>https://dnozza.github.io/talk/potential_pitfalls_of_algorithms/</link>
+      <pubDate>Mon, 12 Oct 2020 14:39:32 +0200</pubDate>
+      
+      <guid>https://dnozza.github.io/talk/potential_pitfalls_of_algorithms/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/GrNurje9TN8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
   </channel>
 </rss>
