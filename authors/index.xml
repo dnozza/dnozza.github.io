@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,18 +15,63 @@
     <item>
       <title>Debora Nozza</title>
       <link>https://dnozza.github.io/authors/debora-nozza/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/debora-nozza/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Dirk Hovy</title>
+      <link>https://dnozza.github.io/authors/dirk-hovy/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/dirk-hovy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elisabetta Fersini</title>
       <link>https://dnozza.github.io/authors/elisabetta-fersini/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/elisabetta-fersini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enza Messina</title>
+      <link>https://dnozza.github.io/authors/enza-messina/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/enza-messina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federico Bianchi</title>
+      <link>https://dnozza.github.io/authors/federico-bianchi/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/federico-bianchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Palmonari</title>
+      <link>https://dnozza.github.io/authors/matteo-palmonari/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/matteo-palmonari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pikakshi Manchanda</title>
+      <link>https://dnozza.github.io/authors/pikakshi-manchanda/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/pikakshi-manchanda/</guid>
       <description></description>
     </item>
     
@@ -40,38 +85,11 @@
     </item>
     
     <item>
-      <title>Enza Messina</title>
-      <link>https://dnozza.github.io/authors/enza-messina/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/authors/enza-messina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Silvia Terragni</title>
       <link>https://dnozza.github.io/authors/silvia-terragni/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/silvia-terragni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dirk Hovy</title>
-      <link>https://dnozza.github.io/authors/dirk-hovy/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/authors/dirk-hovy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federico Bianchi</title>
-      <link>https://dnozza.github.io/authors/federico-bianchi/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/authors/federico-bianchi/</guid>
       <description></description>
     </item>
     
@@ -171,24 +189,6 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/flavio-massimiliano-cecchini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matteo Palmonari</title>
-      <link>https://dnozza.github.io/authors/matteo-palmonari/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/authors/matteo-palmonari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pikakshi Manchanda</title>
-      <link>https://dnozza.github.io/authors/pikakshi-manchanda/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/authors/pikakshi-manchanda/</guid>
       <description></description>
     </item>
     

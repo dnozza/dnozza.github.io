@@ -7,10 +7,91 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BERT</title>
+      <link>https://dnozza.github.io/tags/bert/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptation</title>
+      <link>https://dnozza.github.io/tags/domain-adaptation/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hate speech</title>
+      <link>https://dnozza.github.io/tags/hate-speech/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Named Entity Recognition</title>
+      <link>https://dnozza.github.io/tags/named-entity-recognition/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://dnozza.github.io/tags/nlp/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://dnozza.github.io/tags/social-media/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Detection</title>
+      <link>https://dnozza.github.io/tags/emotion-detection/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/emotion-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://dnozza.github.io/tags/italian/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://dnozza.github.io/tags/sentiment-analysis/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bias</title>
@@ -18,15 +99,6 @@
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hate speech</title>
-      <link>https://dnozza.github.io/tags/hate-speech/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/hate-speech/</guid>
       <description></description>
     </item>
     
@@ -45,24 +117,6 @@
       <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/misogyny-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nlp</title>
-      <link>https://dnozza.github.io/tags/nlp/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Media</title>
-      <link>https://dnozza.github.io/tags/social-media/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/social-media/</guid>
       <description></description>
     </item>
     
@@ -90,15 +144,6 @@
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/topic-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BERT</title>
-      <link>https://dnozza.github.io/tags/bert/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/bert/</guid>
       <description></description>
     </item>
     
@@ -175,38 +220,11 @@
     </item>
     
     <item>
-      <title>Domain Adaptation</title>
-      <link>https://dnozza.github.io/tags/domain-adaptation/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/domain-adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Named Entity Recognition</title>
-      <link>https://dnozza.github.io/tags/named-entity-recognition/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Information Extraction</title>
       <link>https://dnozza.github.io/tags/information-extraction/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/information-extraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Analysis</title>
-      <link>https://dnozza.github.io/tags/sentiment-analysis/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     

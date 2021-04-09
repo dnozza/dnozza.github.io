@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HONEST: Measuring Hurtful Sentence Completion in Language Models</title>
+      <link>https://dnozza.github.io/publication/2021_honest/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021_honest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LearningToAdapt with word embeddings: Domain adaptation of Named Entity Recognition systems</title>
+      <link>https://dnozza.github.io/publication/2021_learningtoadapt/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021_learningtoadapt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEEL-IT: Emotion and Sentiment Classification for the Italian Language</title>
+      <link>https://dnozza.github.io/publication/2021_feelit/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021_feelit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMI @ EVALITA2020: Automatic Misogyny Identification</title>
