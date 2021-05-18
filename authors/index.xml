@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Debora Nozza</title>
       <link>https://dnozza.github.io/authors/debora-nozza/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/debora-nozza/</guid>
       <description></description>
@@ -76,20 +76,29 @@
     </item>
     
     <item>
-      <title>Paolo Rosso</title>
-      <link>https://dnozza.github.io/authors/paolo-rosso/</link>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Tommaso Fornaciari</title>
+      <link>https://dnozza.github.io/authors/tommaso-fornaciari/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dnozza.github.io/authors/paolo-rosso/</guid>
+      <guid>https://dnozza.github.io/authors/tommaso-fornaciari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Silvia Terragni</title>
       <link>https://dnozza.github.io/authors/silvia-terragni/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/silvia-terragni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Rosso</title>
+      <link>https://dnozza.github.io/authors/paolo-rosso/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/authors/paolo-rosso/</guid>
       <description></description>
     </item>
     
@@ -234,9 +243,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/authors/debora/</guid>
-      <description>&lt;p&gt;I am a Postdoctoral Research Fellow at the &lt;a href=&#34;http://www.bidsa.unibocconi.eu/&#34;&gt;Bocconi Institute for Data Science and Analytics at Bocconi University&lt;/a&gt; in the &lt;a href=&#34;https://twitter.com/MilaNLProc&#34;&gt;Bocconi NLP group&lt;/a&gt;. My research interests mainly focus on the detection and counter-acting of hate speech and gender bias which has become fundamental for fighting against several types of discrimination (misogyny, xenophobia, racism, etc.) that subsist in Social Media.&lt;/p&gt;
-&lt;p&gt;Prior to joining Bocconi University, I spent two years as a PostDoc in Computer Science at the &lt;a href=&#34;http://www.unimib.it&#34;&gt;University of Milano Bicocca&lt;/a&gt; (Milan, Italy) in the &lt;a href=&#34;http://www.mind.disco.unimib.it&#34;&gt;MIND research laboratory&lt;/a&gt;. My research project &lt;a href=&#34;publication/2019_cage/&#34;&gt;&amp;ldquo;Deep Learning Representations for Large Attributed Graphs&amp;rdquo;&lt;/a&gt; aimed at designing and developing novel Deep Learning unsupervised models for learning a graph representation from large heterogeneous attributed graphs, which comprises both the structure of the graph and the attributes associated with each node.&lt;/p&gt;
-&lt;p&gt;In 2018, I received my PhD in Computer Science at the University of Milano Bicocca with a thesis titled &lt;a href=&#34;https://boa.unimib.it/handle/10281/241185&#34;&gt;&amp;ldquo;Deep Learning for Feature Representation in Natural Language Processing&amp;rdquo;&lt;/a&gt;. My doctoral thesis demonstrated that enhancing Natural Language Processing models with representations obtained by unsupervised Deep Learning models can significantly improve the computational abilities of &amp;ldquo;making sense&amp;rdquo; of a large volume of user-generated text. In particular the thesis addresses tasks that were considered crucial for understanding what the text is talking about, by extracting and disambiguating the named entities (&lt;a href=&#34;publication/2018_adapting_named_entity_types&#34;&gt;Named Entity Recognition&lt;/a&gt; and &lt;a href=&#34;publication/2016_named_entity_linking_italian_tweets&#34;&gt;Linking&lt;/a&gt;), and which opinion the user is expressing, dealing also with irony (&lt;a href=&#34;publication/2016_deep_learning_sentiment_domain_adaptation/&#34;&gt;Sentiment Analysis&lt;/a&gt; and &lt;a href=&#34;publication/2016_unsupervised_irony_detection&#34;&gt;Irony Detection&lt;/a&gt;).&lt;/p&gt;
+      <description>&lt;p&gt;I am a Postdoctoral Research Fellow in Computer Science at the &lt;a href=&#34;http://www.bidsa.unibocconi.eu/&#34;&gt;Bocconi Institute for Data Science and Analytics at Bocconi University&lt;/a&gt; in the &lt;a href=&#34;https://milanlproc.github.io/&#34;&gt;Bocconi NLP group&lt;/a&gt; for the &lt;a href=&#34;https://www.bidsa.unibocconi.eu/wps/wcm/connect/Site/Bidsa/Home/News_Events/ERC+Dirk+Hovy&#34;&gt;INTEGRATOR&lt;/a&gt; ERC Starting Grant project.&lt;/p&gt;
+&lt;p&gt;My research interests mainly focus on the detection and counter-acting of &lt;a href=&#34;publication/2021-zeroshot-crosslingual-hate-speech&#34;&gt;hate speech&lt;/a&gt; and &lt;a href=&#34;publication/2019_unintended_bias_misogyny_detection&#34;&gt;bias&lt;/a&gt; which has become fundamental for fighting against several types of discrimination that subsist in Social Media. I organized several shared tasks for the problem of hate speech, and in particular misogyny detection (&lt;a href=&#34;http://alt.qcri.org/semeval2019/&#34;&gt;HatEval@SemEval 2019&lt;/a&gt;, &lt;a href=&#34;https://amievalita2020.github.io/&#34;&gt;AMI@Evalita 2020&lt;/a&gt;,&lt;a href=&#34;http://www.evalita.it/2018&#34;&gt; AMI@Evalita 2018&lt;/a&gt;)&lt;/p&gt;
 </description>
     </item>
     

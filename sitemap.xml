@@ -4,31 +4,61 @@
   
   <url>
     <loc>https://dnozza.github.io/publication_types/1/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/publication_types/2/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dnozza.github.io/authors/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dnozza.github.io/tags/bert/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dnozza.github.io/authors/debora-nozza/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dnozza.github.io/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication/2021-zeroshot-crosslingual-hate-speech/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/hate-speech/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/nlp/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication_types/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/</loc>
+    <lastmod>2021-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication_types/2/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,12 +88,7 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/tags/hate-speech/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/publication/2021_honest/</loc>
+    <loc>https://dnozza.github.io/publication/2021-honest-hurtful-language-model/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,22 +108,7 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/tags/nlp/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dnozza.github.io/authors/pikakshi-manchanda/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/publication_types/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/publication/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,8 +118,8 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/tags/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <loc>https://dnozza.github.io/tags/dataset/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/publication/2021_feelit/</loc>
+    <loc>https://dnozza.github.io/publication/2021-feelit-italian-sentiment-emotion/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,8 +138,38 @@
   </url>
   
   <url>
+    <loc>https://dnozza.github.io/publication/2021-wassa-emotion-multitask/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dnozza.github.io/tags/sentiment-analysis/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/authors/tommaso-fornaciari/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication/2021-crosslingual-topic-model/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/language-models/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/authors/silvia-terragni/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/topic-modeling/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,11 +208,6 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/authors/silvia-terragni/</loc>
-    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dnozza.github.io/tags/topic-model/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
   </url>
@@ -198,21 +233,6 @@
   </url>
   
   <url>
-    <loc>https://dnozza.github.io/publication_types/3/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dnozza.github.io/tags/multilingual/</loc>
-    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dnozza.github.io/authors/giulia-boifava/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -220,6 +240,16 @@
   <url>
     <loc>https://dnozza.github.io/publication/2020_profiling_italian_misogynist/</loc>
     <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/publication_types/3/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnozza.github.io/tags/multilingual/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

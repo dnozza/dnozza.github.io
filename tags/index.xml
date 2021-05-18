@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>BERT</title>
       <link>https://dnozza.github.io/tags/bert/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hate speech</title>
+      <link>https://dnozza.github.io/tags/hate-speech/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://dnozza.github.io/tags/nlp/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
@@ -31,15 +49,6 @@
     </item>
     
     <item>
-      <title>hate speech</title>
-      <link>https://dnozza.github.io/tags/hate-speech/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/hate-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Named Entity Recognition</title>
       <link>https://dnozza.github.io/tags/named-entity-recognition/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
@@ -49,20 +58,20 @@
     </item>
     
     <item>
-      <title>nlp</title>
-      <link>https://dnozza.github.io/tags/nlp/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Social Media</title>
       <link>https://dnozza.github.io/tags/social-media/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dataset</title>
+      <link>https://dnozza.github.io/tags/dataset/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/dataset/</guid>
       <description></description>
     </item>
     
@@ -90,6 +99,24 @@
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Models</title>
+      <link>https://dnozza.github.io/tags/language-models/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling</title>
+      <link>https://dnozza.github.io/tags/topic-modeling/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/tags/topic-modeling/</guid>
       <description></description>
     </item>
     
@@ -150,7 +177,7 @@
     <item>
       <title>multilingual</title>
       <link>https://dnozza.github.io/tags/multilingual/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/tags/multilingual/</guid>
       <description></description>

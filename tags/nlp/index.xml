@@ -7,17 +7,26 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Debora Nozza, {year}</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dnozza.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Exposing the limits of Zero-shot Cross-lingual Hate Speech Detection</title>
+      <link>https://dnozza.github.io/publication/2021-zeroshot-crosslingual-hate-speech/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021-zeroshot-crosslingual-hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>HONEST: Measuring Hurtful Sentence Completion in Language Models</title>
-      <link>https://dnozza.github.io/publication/2021_honest/</link>
+      <link>https://dnozza.github.io/publication/2021-honest-hurtful-language-model/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dnozza.github.io/publication/2021_honest/</guid>
+      <guid>https://dnozza.github.io/publication/2021-honest-hurtful-language-model/</guid>
       <description></description>
     </item>
     
@@ -32,10 +41,28 @@
     
     <item>
       <title>FEEL-IT: Emotion and Sentiment Classification for the Italian Language</title>
-      <link>https://dnozza.github.io/publication/2021_feelit/</link>
+      <link>https://dnozza.github.io/publication/2021-feelit-italian-sentiment-emotion/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dnozza.github.io/publication/2021_feelit/</guid>
+      <guid>https://dnozza.github.io/publication/2021-feelit-italian-sentiment-emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MilaNLP @ WASSA: Does BERT Feel Sad When You Cry?</title>
+      <link>https://dnozza.github.io/publication/2021-wassa-emotion-multitask/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021-wassa-emotion-multitask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
+      <link>https://dnozza.github.io/publication/2021-crosslingual-topic-model/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dnozza.github.io/publication/2021-crosslingual-topic-model/</guid>
       <description></description>
     </item>
     
@@ -54,15 +81,6 @@
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dnozza.github.io/publication/2020_concept_document_topic_models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-lingual Contextualized Topic Models with Zero-shot Learning</title>
-      <link>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dnozza.github.io/publication/2020_crosslingual_topic_model/</guid>
       <description></description>
     </item>
     
