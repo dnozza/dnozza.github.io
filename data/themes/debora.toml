@@ -1,0 +1,21 @@
+# Theme metadata
+name = "debora"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#c02739"
+primary_light = "#ffffee"
+primary_dark = "#ffffee"
+
+# Menu
+menu_primary = "#ffffee"
+menu_text = "#333"
+menu_text_active = "#3B5249"
+menu_title = "#333"
+
+# Backgrounds
+background = "#ffffee"
+home_section_odd = "#ffffee"
+home_section_even = "#ffffee"
