@@ -20,7 +20,7 @@
       {{ if not site.Params.email }}
         {{ errorf "Please set an email address for the contact form using the `email` parameter in `config.toml`. Otherwise, set `email_form = 0` to disable the contact form." }}
       {{ end }}
-      {{ $post_action = printf "action=\"https://formspree.io/%s\"" site.Params.email }}
+      {{ $post_action = printf "action=\"https://formspree.io/%s\"" site.Params.formspree }}
     {{end}}
 
     <div class="mb-3">
