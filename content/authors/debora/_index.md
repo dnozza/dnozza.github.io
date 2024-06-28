@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:debora.nozza@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/debora_nozza
 - icon: google-scholar

@@ -23,6 +23,12 @@
   url = "/talks"
   weight = 20
 
+#  [[main]]
+#    name = "a"
+#    url = "/a"
+#    parent = "Posts"
+#    weight = 20
+
 [[main]]
   name = "Publications"
   url = "/publication"
