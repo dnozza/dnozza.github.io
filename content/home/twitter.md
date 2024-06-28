@@ -25,4 +25,4 @@ subtitle = ""
 
 
 
-<a class="twitter-timeline" data-width="620" data-height="300" data-theme="light" href="https://twitter.com/debora_nozza?ref_src=twsrc%5Etfw">Tweets by debora_nozza</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/debora_nozza?ref_src=twsrc%5Etfw">Tweets by debora_nozza</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
