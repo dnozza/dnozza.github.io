@@ -20,7 +20,7 @@ publication: "Proceedings of the 5th Workshop on Gender Bias in Natural Language
 publication_short: "Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This volume contains the proceedings of the Fifth Workshop on Gender Bias in Natural Language Processing held in conjunction with the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)."
 
 
 tags: ["Bias","NLP","LLMs"]
@@ -36,7 +36,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://aclanthology.org/2024.gebnlp-1.0.pdf
-url_code: 
+url_code:
 url_dataset:
 url_poster:
 url_project:

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)"
-authors: ["Agnieszka Falenska","Christine Basta","Marta Costa-jussà","Seraphina Goldfarb-Tarrant","Debora Nozza"]
+title: "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)"
+authors: ["Yi-Ling Chung","Zeerak Talat","Debora Nozza","Flor Miriam Plaza-del-Arco","Paul Röttger","Aida Mostafazadeh Davani","Agostina Calabrese"]
 date: 2024-08-12
 doi: ""
 
@@ -16,14 +16,19 @@ publishDate: 2024-08-24T14:48:20+01:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP) at ACL 2024"
-publication_short: "Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)"
+publication: "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024) at ACL 2024"
+publication_short: "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Digital technologies have brought many benefits for society, transforming how people connect, communicate and interact with each other. However, they have also enabled abusive and harmful content such as
+hate speech and harassment to reach large audiences, and for their negative effects to be amplified. The
+sheer amount of content shared online means that abuse and harm can only be tackled at scale with the
+help of computational tools. However, detecting and moderating online abuse and harms is a difficult
+task, with many technical, social, legal and ethical challenges. The Workshop on Online Harms and
+Abuse (WOAH) is the leading workshop dedicated to research addressing these challenges."
 
 
-tags: ["Bias","NLP","LLMs"]
+tags: ["Hate Speech","NLP"]
 categories: []
 featured: false
 
@@ -35,8 +40,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://aclanthology.org/2024.gebnlp-1.0.pdf
-url_code: 
+url_pdf: https://aclanthology.org/2024.woah-1.0.pdf
+url_code:
 url_dataset:
 url_poster:
 url_project:
