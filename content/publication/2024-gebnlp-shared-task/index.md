@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Overview of the Shared Task on Machine Translation Gender Bias Evaluation with Multilingual Holistic Bias"
-authors: ["Marta Costa-jussà","Pierre Andrews","Christine Basta","Juan Ciro","Agnieszka Falenska","Seraphina Goldfarb-Tarrant,"Rafael Mosquera","Debora Nozza","Eduardo Sánchez"]
+authors: ["Marta Costa-jussà","Pierre Andrews","Christine Basta","Juan Ciro","Agnieszka Falenska","Seraphina Goldfarb-Tarrant","Rafael Mosquera","Debora Nozza","Eduardo Sánchez"]
 date: 2024-08-12
 doi: ""
 
@@ -38,7 +38,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://aclanthology.org/2024.gebnlp-1.26.pdf
-url_code: 
+url_code:
 url_dataset:
 url_poster:
 url_project:
