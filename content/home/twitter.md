@@ -8,7 +8,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Recent Twitter activity"
+title = "Recent BlueSky activity"
 subtitle = ""
 
 [design]
@@ -23,5 +23,4 @@ subtitle = ""
  css_class = ""
 +++
 
-
-<a class="twitter-timeline" data-lang="en" data-width="620" data-height="300" data-theme="light" href="https://twitter.com/debora_nozza?ref_src=twsrc%5Etfw">Tweets by debora_nozza</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://bst.heion.net/timeline.js" data-handle="deboranozza.bsky.social" data-theme="light" data-width="620" data-height="300" data-lang="en" data-pin="0" data-rp="0"></script>

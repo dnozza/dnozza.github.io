@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:debora.nozza@unibocconi.it'  # For a direct email link, use "mailto:debora.nozza@unibocconi.it".
-- icon: x-twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/debora_nozza
+  link: https://bsky.app/profile/deboranozza.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.it/citations?hl=it&user=AKi-UWQAAAAJ
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-**Debora Nozza** is an Assistant Professor in Computing Sciences at [Bocconi University](https:\\www.bocconi.it/). She was awarded a **€1.5m ERC Starting Grant project 2023** for research on personalized and subjective approaches to Natural Language Processing. Previously, she was awarded a €120,000 grant from Fondazione Cariplo for her project [MONICA](https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/), which focuses on monitoring coverage, attitudes, and accessibility of Italian measures in response to COVID-19. Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
+**Debora Nozza (she/her)** is an Assistant Professor in Computing Sciences at [Bocconi University](https:\\www.bocconi.it/). She was awarded a **€1.5m ERC Starting Grant project 2023** for research on personalized and subjective approaches to Natural Language Processing. Previously, she was awarded a €120,000 grant from Fondazione Cariplo for her project [MONICA](https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/), which focuses on monitoring coverage, attitudes, and accessibility of Italian measures in response to COVID-19. Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context. She is also deeply interested in understanding how and why people use large language models (LLMs) in their everyday lives.
 
-She organized the [7th Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at ACL 2023 and the [ICWSM 2023 Data Challenge: Temporal social data](https://sites.google.com/view/icwsm2023datachallenge/home) at ICWSM 2023. She was one of the organizers of the task on Automatic Misogyny Identification (AMI) at [Evalita 2018](\url{http://www.evalita.it/2018}) and [Evalita 2020](\url{https://amievalita2020.github.io/}), and one of the organizers of the HatEval Task 5 at [SemEval 2019](http://alt.qcri.org/semeval2019/) on multilingual detection of hate speech against immigrants and women in Twitter.
+She is an organizer of the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) and [Workshop on Gender Bias in Natural Language Processing (GeBNLP)](https://gebnlp-workshop.github.io/) at *ACL conferences. She was among the organizers of several shared tasks, including the first [Homotransphobia Detection in Italian (HODI)](https://hodi-evalita.github.io/) at Evalita 2023, [Automatic Misogyny Identification (AMI)](\url{https://amievalita2020.github.io}) at Evalita 2018 and Evalita 2020, as well as [HatEval Task 5](http://alt.qcri.org/semeval2019/) at SemEval 2019, which focused on multilingual detection of hate speech against immigrants and women in Twitter.
