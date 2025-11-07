@@ -18,10 +18,10 @@
 #  url = "/post"
 #  weight = 10
 
-[[main]]
-  name = "Talks"
-  url = "/talks"
-  weight = 20
+#[[main]]
+#  name = "Talks"
+#  url = "/talks"
+#  weight = 20
 
 #  [[main]]
 #    name = "a"
