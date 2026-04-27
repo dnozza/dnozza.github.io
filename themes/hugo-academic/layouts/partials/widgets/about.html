@@ -29,7 +29,10 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name">{{ $person.name }}</h2>
+        <h2 itemprop="name">
+          {{ $person.name }}
+          {{ with $person.pronouns }}<span class="profile-pronouns">{{ . }}</span>{{ end }}
+        </h2>
         {{ with $person.role }}<h3 itemprop="jobTitle">{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}

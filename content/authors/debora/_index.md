@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Debora Nozza she/her
+name: Debora Nozza
 
 # Username (this should match the folder name)
 authors:
@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Assistant Professor
+pronouns: she/her
 
 # Organizations/Affiliations
 organizations:
@@ -67,11 +68,10 @@ email: ""
 user_groups:
 - Researchers
 ---
-
 I am an Assistant Professor in the Computing Sciences Department at [Bocconi University](https://www.bocconi.it/) in Milan, where I co-lead the [MilaNLP Lab](https://milanlproc.github.io//) together with [Dirk Hovy](https://dirkhovy.com/).
 
 I study how people use language technologies in everyday life, with a focus on Natural Language Processing and AI ethics.
 
-I was awarded a **€1.5m ERC Starting Grant project 2023** for research on personalized and subjective approaches to Natural Language Processing. I also serve on the Editorial Committee of [Fondazione Editoriale Domani](https://www.editorialedomani.it/).
+I was awarded a [**€1.5m ERC Starting Grant project 2023**](/project/personae/) for research on personalized and subjective approaches to Natural Language Processing. I also serve on the Editorial Committee of [Fondazione Editoriale Domani](https://www.editorialedomani.it/).
 
-I have co-organized several international workshops, including  the [Workshop on Gender Bias in Natural Language Processing (GeBNLP)](https://gebnlp-workshop.github.io/), the [Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)](https://workshop-wassa.github.io/), and the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at *ACL conferences. I have also organized shared tasks on [misogyny](https://amievalita2020.github.io), [homotransphobia](https://hodi-evalita.github.io/), [multilingual hate speech](http://alt.qcri.org/semeval2019/), and [multilingual text detoxification](https://pan.webis.de/clef25/pan25-web/text-detoxification.html).
+I have co-organized several international workshops, including the [Workshop on Gender Bias in Natural Language Processing (GeBNLP)](https://gebnlp-workshop.github.io/), the [Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)](https://workshop-wassa.github.io/), and the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at *ACL conferences. I have also organized shared tasks on [misogyny](https://amievalita2020.github.io), [homotransphobia](https://hodi-evalita.github.io/), [multilingual hate speech](http://alt.qcri.org/semeval2019/), and [multilingual text detoxification](https://pan.webis.de/clef25/pan25-web/text-detoxification.html).
