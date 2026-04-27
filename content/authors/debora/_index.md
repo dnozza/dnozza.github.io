@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Debora Nozza
+name: Debora Nozza she/her
 
 # Username (this should match the folder name)
 authors:
@@ -68,11 +68,10 @@ user_groups:
 - Researchers
 ---
 
-**Debora Nozza (she/her)** is an Assistant Professor in the Computing Sciences Department at [Bocconi University](https://www.bocconi.it/) in Milan, where she co-leads the [MilaNLP Lab](https://milanlproc.github.io//) together with [Dirk Hovy](https://dirkhovy.com/).
-She was awarded a **€1.5m ERC Starting Grant project 2023** for research on personalized and subjective approaches to Natural Language Processing. Previously, she was awarded a €120,000 grant from Fondazione Cariplo for her project [MONICA](https://milanlproc.github.io/project/monitoring_italian_measures_response_covid19/). Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias in multilingual context. She is also deeply interested in understanding how and why people use large language models (LLMs) in their everyday lives.
+I am an Assistant Professor in the Computing Sciences Department at [Bocconi University](https://www.bocconi.it/) in Milan, where I co-lead the [MilaNLP Lab](https://milanlproc.github.io//) together with [Dirk Hovy](https://dirkhovy.com/).
 
+I study how people use language technologies in everyday life, with a focus on Natural Language Processing and AI ethics.
 
-She is an organizer of the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/), the [Workshop on Gender Bias in Natural Language Processing (GeBNLP)](https://gebnlp-workshop.github.io/), and the [Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)](https://workshop-wassa.github.io/) at **ACL* conferences, as well as the [International Workshop on Protecting Women Online (TSWW)](https://tsww25.github.io/) at the Web Conference 2025.
+I was awarded a **€1.5m ERC Starting Grant project 2023** for research on personalized and subjective approaches to Natural Language Processing. I also serve on the Editorial Committee of [Fondazione Editoriale Domani](https://www.editorialedomani.it/).
 
-She also organized several shared tasks, including the first [Homotransphobia Detection in Italian (HODI)](https://hodi-evalita.github.io/) at Evalita 2023, the [Automatic Misogyny Identification (AMI)](https://amievalita2020.github.io) at Evalita 2018 and Evalita 2020, the [HatEval Task 5](http://alt.qcri.org/semeval2019/) at SemEval 2019 on multilingual hate speech detection against immigrants and women on Twitter, and the [TextDetox Shared Task](https://pan.webis.de/clef25/pan25-web/text-detoxification.html) at CLEF 2025 on multilingual text detoxification.
-
+I have co-organized several international workshops, including  the [Workshop on Gender Bias in Natural Language Processing (GeBNLP)](https://gebnlp-workshop.github.io/), the [Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)](https://workshop-wassa.github.io/), and the [Workshop on Online Abuse and Harms (WOAH)](https://www.workshopononlineabuse.com/) at *ACL conferences. I have also organized shared tasks on [misogyny](https://amievalita2020.github.io), [homotransphobia](https://hodi-evalita.github.io/), [multilingual hate speech](http://alt.qcri.org/semeval2019/), and [multilingual text detoxification](https://pan.webis.de/clef25/pan25-web/text-detoxification.html).
