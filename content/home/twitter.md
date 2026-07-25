@@ -23,4 +23,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<script async src="https://bst.heion.net/timeline.js" data-handle="deboranozza.bsky.social" data-theme="light" data-width="620" data-height="300" data-lang="en" data-pin="0" data-rp="0"></script>
+<!-- BlueskyTimeline Widget -->
+<bst-widget data-handle="deboranozza.bsky.social" data-theme="light" data-width="620px" data-height="300px" data-lang="en" data-pin="0" data-rp="0"></bst-widget>
+<script src="https://blueskytimeline.com/v2/timeline.js" type="module" defer></script>
+<!-- /BlueskyTimeline Widget -->
