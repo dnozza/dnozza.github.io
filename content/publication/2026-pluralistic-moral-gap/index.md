@@ -49,7 +49,7 @@ url_source: ''
 url_video: ''
 socialmedia_post: ''
 image:
-  caption: ''
+  caption: 'Comparing human and LLM moral judgments and values on real-world moral dilemmas'
   focal_point: Center
   preview_only: false
 slides: ''
