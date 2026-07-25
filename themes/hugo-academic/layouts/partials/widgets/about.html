@@ -46,7 +46,7 @@
 
       <link itemprop="url" href="{{ .Permalink }}">
 
-      <ul class="network-icon" aria-hidden="true">
+      <ul class="network-icon" aria-hidden="true" style="justify-content:flex-start;">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
