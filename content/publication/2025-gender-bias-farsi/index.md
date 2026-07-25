@@ -50,7 +50,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'GeBNLP Workshop @ACL'
+  caption: 'Example inputs and outputs across the three gender bias evaluation tasks'
   focal_point: "Center"
   preview_only: false
 
