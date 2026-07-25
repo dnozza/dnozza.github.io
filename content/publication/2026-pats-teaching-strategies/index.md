@@ -48,7 +48,7 @@ url_source: ''
 url_video: ''
 socialmedia_post: ''
 image:
-  caption: ''
+  caption: 'Example of a personality-aware teaching strategy in action'
   focal_point: Center
   preview_only: false
 slides: ''
