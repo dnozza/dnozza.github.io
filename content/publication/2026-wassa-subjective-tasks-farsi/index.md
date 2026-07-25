@@ -47,7 +47,7 @@ url_source: ''
 url_video: ''
 socialmedia_post: ''
 image:
-  caption: ''
+  caption: 'Number of publications on subjective tasks (Emotion Analysis, Sentiment Analysis, Toxicity Detection) in Farsi by year'
   focal_point: Center
   preview_only: false
 slides: ''
