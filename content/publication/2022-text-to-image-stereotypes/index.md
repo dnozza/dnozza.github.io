@@ -6,6 +6,10 @@ authors: ["Federico Bianchi", "Pratyusha Kalluri", "Esin Durmus", "Faisal Ladhak
 date: 2022-11-07
 doi: ""
 
+# Hidden: superseded by the published version in 2023-text-to-image-stereotypes
+# (https://dl.acm.org/doi/10.1145/3593013.3594095). Kept only to avoid a duplicate entry.
+draft: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-11-07T14:48:20+01:00
 

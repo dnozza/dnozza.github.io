@@ -6,6 +6,10 @@ authors: ["Giuseppe Attanasio", "Eliana Pastor", "Chiara Di Bonaventura", "Debor
 date: 2022-08-02
 doi: ""
 
+# Hidden: superseded by the published version in 2023-ferret-explainers-transformers
+# (https://aclanthology.org/2023.eacl-demo.29/). Kept only to avoid a duplicate entry.
+draft: true
+
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-02T14:48:20+01:00
 
