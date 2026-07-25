@@ -70,7 +70,7 @@
       </ul>
 
       <div style="text-align:center;margin-top:-35px;">
-        <sticker-forge id="milanlp-sticker" style="display:inline-block;width:200px;height:200px;min-width:200px;min-height:200px;max-width:200px;max-height:200px;overflow:hidden;vertical-align:middle;"></sticker-forge>
+        <sticker-forge id="milanlp-sticker" style="display:inline-block;width:200px;height:200px;min-width:200px;min-height:200px;max-width:200px;max-height:200px;overflow:hidden;vertical-align:middle;opacity:0;transition:opacity 0.25s ease;"></sticker-forge>
       </div>
 
       <script type="module" src="/js/sticker-forge.es.js"></script>
@@ -107,6 +107,7 @@
             wind: 0.25,
             quality: "high"
           });
+          sticker.style.opacity = "1";
         }
       </script>
 
