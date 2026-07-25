@@ -46,7 +46,7 @@
 
       <link itemprop="url" href="{{ .Permalink }}">
 
-      <ul class="network-icon" aria-hidden="true" style="justify-content:flex-start;flex-wrap:nowrap;align-items:center;">
+      <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -67,10 +67,11 @@
           </a>
         </li>
         {{ end }}
-        <li>
-          <sticker-forge id="milanlp-sticker" style="display:inline-block;width:150px;height:150px;min-width:150px;min-height:150px;max-width:150px;max-height:150px;overflow:hidden;vertical-align:middle;"></sticker-forge>
-        </li>
       </ul>
+
+      <div style="text-align:center;margin-top:20px;">
+        <sticker-forge id="milanlp-sticker" style="display:inline-block;width:150px;height:150px;min-width:150px;min-height:150px;max-width:150px;max-height:150px;overflow:hidden;vertical-align:middle;"></sticker-forge>
+      </div>
 
       <script type="module" src="/js/sticker-forge.es.js"></script>
       <script type="module">
