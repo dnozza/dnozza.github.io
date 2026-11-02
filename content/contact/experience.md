@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # Do not modify this line!
 headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
