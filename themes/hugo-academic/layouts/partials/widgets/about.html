@@ -122,7 +122,7 @@
 
     <div class="row">
 
-      {{ with $person.interests }}
+      {{ if and (ne $page.Params.show_interests false) $person.interests }}
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
@@ -133,7 +133,7 @@
       </div>
       {{ end }}
 
-      {{ with $person.education }}
+      {{ if and (ne $page.Params.show_education false) $person.education }}
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
